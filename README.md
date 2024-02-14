@@ -33,7 +33,7 @@ Kontribusi dan umpan balik dari komunitas sangat dihargai. Jika Anda ingin berko
 
 ### 👨‍💻 Cara Menjalankan Proyek
 
-1. Clone repositori ini ke direktori web server Anda
+1. Clone repositori ini ke direktori web server Anda.
 
    ```
    git clone https://github.com/fifovalle/PERMAINAN-ULAR-NEON.git
